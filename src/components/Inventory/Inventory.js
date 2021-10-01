@@ -3,7 +3,7 @@ import React from 'react';
 const Inventory = () => {
     return (
         <div>
-            <h2>This is inventory page i cant install </h2>
+            <h2>This is inventory  i cant install this firles </h2>
         </div>
     );
 };
